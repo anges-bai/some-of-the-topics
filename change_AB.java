@@ -6,7 +6,8 @@ import java.util.Scanner;
  * @Description: 给定一个int数组AB，其第零个元素和第一个元素为待交换的值，请返回交换后的数组。
  * 测试样例： [1,2] 返回：[2,1]
  */
-public class Test1 {
+
+public class Test{
     public static void main(String[] args) {
         int[] AB = new int[3];
         Scanner s1 = new Scanner(System.in);
