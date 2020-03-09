@@ -10,6 +10,8 @@ import java.util.Scanner;
  * 输入描述： 输入一个整数n，表示小易想购买n(1 ≤ n ≤ 100)个苹果
  * 输出描述：输出一个整数表示最少需要购买的袋数，如果不能买恰好n个苹果则输出-1
  */
+
+
 public class BuyAppleTest {
     public static void main(String[] args) {
         System.out.println("请输入想要购买的苹果数：");
